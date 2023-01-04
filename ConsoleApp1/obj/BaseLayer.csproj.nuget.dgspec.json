@@ -1,0 +1,181 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\CASPER\\Desktop\\05.01.2022 Homework\\ConsoleApp1\\ConsoleApp1\\BaseLayer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\CASPER\\Desktop\\05.01.2022 Homework\\ConsoleApp1\\ConsoleApp1\\BaseLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CASPER\\Desktop\\05.01.2022 Homework\\ConsoleApp1\\ConsoleApp1\\BaseLayer.csproj",
+        "projectName": "BaseLayer",
+        "projectPath": "C:\\Users\\CASPER\\Desktop\\05.01.2022 Homework\\ConsoleApp1\\ConsoleApp1\\BaseLayer.csproj",
+        "packagesPath": "C:\\Users\\CASPER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CASPER\\Desktop\\05.01.2022 Homework\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\CASPER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\CASPER\\Desktop\\05.01.2022 Homework\\ConsoleApp1\\ServiceLayer\\ServiceLayer.csproj": {
+                "projectPath": "C:\\Users\\CASPER\\Desktop\\05.01.2022 Homework\\ConsoleApp1\\ServiceLayer\\ServiceLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\CASPER\\Desktop\\05.01.2022 Homework\\ConsoleApp1\\DomainLayerr\\DomainLayerr.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CASPER\\Desktop\\05.01.2022 Homework\\ConsoleApp1\\DomainLayerr\\DomainLayerr.csproj",
+        "projectName": "DomainLayerr",
+        "projectPath": "C:\\Users\\CASPER\\Desktop\\05.01.2022 Homework\\ConsoleApp1\\DomainLayerr\\DomainLayerr.csproj",
+        "packagesPath": "C:\\Users\\CASPER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CASPER\\Desktop\\05.01.2022 Homework\\ConsoleApp1\\DomainLayerr\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\CASPER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\CASPER\\Desktop\\05.01.2022 Homework\\ConsoleApp1\\ServiceLayer\\ServiceLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CASPER\\Desktop\\05.01.2022 Homework\\ConsoleApp1\\ServiceLayer\\ServiceLayer.csproj",
+        "projectName": "ServiceLayer",
+        "projectPath": "C:\\Users\\CASPER\\Desktop\\05.01.2022 Homework\\ConsoleApp1\\ServiceLayer\\ServiceLayer.csproj",
+        "packagesPath": "C:\\Users\\CASPER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CASPER\\Desktop\\05.01.2022 Homework\\ConsoleApp1\\ServiceLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\CASPER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\CASPER\\Desktop\\05.01.2022 Homework\\ConsoleApp1\\DomainLayerr\\DomainLayerr.csproj": {
+                "projectPath": "C:\\Users\\CASPER\\Desktop\\05.01.2022 Homework\\ConsoleApp1\\DomainLayerr\\DomainLayerr.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

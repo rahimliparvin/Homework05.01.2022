@@ -1,0 +1,12 @@
+C:\Users\CASPER\Desktop\05.01.2022 Homework\ConsoleApp1\DomainLayerr\bin\Debug\net6.0\DomainLayerr.deps.json
+C:\Users\CASPER\Desktop\05.01.2022 Homework\ConsoleApp1\DomainLayerr\bin\Debug\net6.0\DomainLayerr.dll
+C:\Users\CASPER\Desktop\05.01.2022 Homework\ConsoleApp1\DomainLayerr\bin\Debug\net6.0\DomainLayerr.pdb
+C:\Users\CASPER\Desktop\05.01.2022 Homework\ConsoleApp1\DomainLayerr\obj\Debug\net6.0\DomainLayerr.csproj.AssemblyReference.cache
+C:\Users\CASPER\Desktop\05.01.2022 Homework\ConsoleApp1\DomainLayerr\obj\Debug\net6.0\DomainLayerr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASPER\Desktop\05.01.2022 Homework\ConsoleApp1\DomainLayerr\obj\Debug\net6.0\DomainLayerr.AssemblyInfoInputs.cache
+C:\Users\CASPER\Desktop\05.01.2022 Homework\ConsoleApp1\DomainLayerr\obj\Debug\net6.0\DomainLayerr.AssemblyInfo.cs
+C:\Users\CASPER\Desktop\05.01.2022 Homework\ConsoleApp1\DomainLayerr\obj\Debug\net6.0\DomainLayerr.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\05.01.2022 Homework\ConsoleApp1\DomainLayerr\obj\Debug\net6.0\DomainLayerr.dll
+C:\Users\CASPER\Desktop\05.01.2022 Homework\ConsoleApp1\DomainLayerr\obj\Debug\net6.0\refint\DomainLayerr.dll
+C:\Users\CASPER\Desktop\05.01.2022 Homework\ConsoleApp1\DomainLayerr\obj\Debug\net6.0\DomainLayerr.pdb
+C:\Users\CASPER\Desktop\05.01.2022 Homework\ConsoleApp1\DomainLayerr\obj\Debug\net6.0\ref\DomainLayerr.dll
